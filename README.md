@@ -1,5 +1,5 @@
 ## About Me:
-🖥️ MSc Computer Engineering student @Unina <br> ⚡ I’m studying Cybersecurity <br> ✉️ daniele.fazzari.00@gmail.com
+🖥️ MSc Computer Engineering student @Unina <br> ⚡ Currently studying Cybersecurity <br> ✉️ daniele.fazzari.00@gmail.com
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-fazzari-48b24a23a) 
